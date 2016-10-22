@@ -650,4 +650,3 @@ public static function jgetdate($timestamp = '', $none = '', $timezone = 'Asia/T
         return ($mod == '') ? array($gy, $gm, $gd) : $gy . $mod . $gm . $mod . $gd;
     }
 }
-/* [ jdf.php ] version 2.65 ?> Download new version from [ http://jdf.scr.ir ] */
